@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/static/js/main.c911c958.js",
+    "static/js/86.97f8f902.js": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/static/js/86.97f8f902.js",
+    "favicon.ico": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/favicon.ico",
+    "index.html": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/index.html",
+    "favicon-32.png": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/favicon-32.png",
+    "favicon-16.png": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/favicon-16.png",
+    "serve.json": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/serve.json",
+    "manifest.json": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/manifest.json",
+    "main.c911c958.js.map": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/static/js/main.c911c958.js.map",
+    "86.97f8f902.js.map": "%3CHannahPlum%3E.github.io/%3Cto-do-app%3E/static/js/86.97f8f902.js.map"
+  },
+  "entrypoints": [
+    "static/js/86.97f8f902.js",
+    "static/js/main.c911c958.js"
+  ]
+}
